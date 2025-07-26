@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Paul!
 
-🎬 Editor | 💻 Python Beginner | 🎯 NDA 2025 Aspirant  
+🎬 Editor | 💻 Python Beginner | CSE Student 
 Self-learning by building and breaking things — one project at a time.
 
 ---
@@ -10,7 +10,7 @@ Self-learning by building and breaking things — one project at a time.
 ## 🔧 What I'm Working On:
 - Learning **Python**
 - Building my custom JARVIS GUI chatbot assistant 🤖
-- Preparing for the **NDA 2 2025** exam (13 Sept 🇮🇳)
+  
 
 ---
 
